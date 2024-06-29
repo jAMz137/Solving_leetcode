@@ -15,7 +15,7 @@ class Solution(object):
 
 
     
-
+# clone from solution, make good use of hashtable
 class Solution2:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         hashtable = dict()
